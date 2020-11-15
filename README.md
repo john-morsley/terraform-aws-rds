@@ -1,2 +1,3 @@
-# terraform-aws-rds
-An AWS RDS for the Terraform Registry.
+# Terraform an RDS in AWS
+
+An AWS RDS module for the Terraform Registry.
